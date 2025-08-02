@@ -8,6 +8,8 @@ A sleek and fully functional **Stopwatch Web App** built using **HTML**, **CSS**
 
 <img width="1869" height="901" alt="image" src="https://github.com/user-attachments/assets/7b5c4a8f-d04d-4aa4-a8ec-2ff8bcec76f4" />
 
+**Preview of the Website:** https://nithish-github07.github.io/SCT_WD_2/
+
 
 ## 🔥 Features
 
